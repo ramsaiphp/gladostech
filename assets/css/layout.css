@@ -1,0 +1,15 @@
+/*======= index.html =======*/
+#page1 #content .col-1{ width:980px;}
+#page1 #content .col-01{ width:600px; float:left;}
+#page1 #content .col-2{ width:328px; margin:0 0 0 0px;}
+
+/**/
+#page1 .footer-row .col-1{ width:305px;}
+#page1 .footer-row .col-2{ width:654px; margin:0 0 0 20px;}
+
+/*======= index-1.html =======*/
+#page2 #content .col-1{ width:294px;}
+#page2 #content .col-2{ width:649px; margin:0 0 0 0px;}
+/**/
+#page2 .footer-row .col-1{ width:630px;}
+#page2 .footer-row .col-2{ width:327px; margin:0 0 0 22px;}

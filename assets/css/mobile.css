@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.container {
+	width: 98%;
+}
+
+.navright {
+float: left;
+margin: 6px 0 0 11px;
+width: 94%;
+}
+
+.top-header-wrapper {
+	background: #fafafa;
+}
+.top-header {
+	background-position: left bottom;
+}
+.top-header .contact-number {
+	position: relative;
+	left: 15%;
+	float: left;
+}
+
+#logo {
+	text-align: center;
+	margin: 20px 0;
+	float: none;
+}
+
+nav {
+	height: auto;
+	width:100%;
+}
+nav ul li {
+	margin: 0 5px 5px;
+}
+nav ul li a {
+}
+nav ul li a span, nav ul li a span, nav ul li a span span, nav ul li a span span {
+	background: none;
+	padding: 0;
+}
+nav ul li a span span span {
+	background: #fefefe;
+	border: 1px solid #777;
+	color: #333;
+    padding: 10px 12px;
+	
+	border-radius: 5px;	
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+}
+nav ul li a:hover span span span, nav ul li a.current span span span {
+	color: #fff;
+}
+
+.banner-slider {
+	background-position: left top;
+}
+.banner-slider img {
+	width: 100%;
+}
+.banner-slider h2 {
+	background-position: left top;
+	left: 0;
+	top: 25px;
+	font-size: 18px;
+	font-weight: normal;
+}
+.slidesjs-pagination {
+	bottom: 70px;
+	left: 0;
+}
+.banner-slider .banner-buttons {
+	position: static;
+	margin: 10px 0;
+}
+.banner-slider .banner-buttons a span {
+	padding: 10px 5px;	
+}
+.banner-slider .banner-buttons a.contact-number {
+	margin-right: 5px;
+	font-size: 14px;
+}
+.banner-slider .banner-buttons a.contact-number span {
+	padding: 11px 10px;
+}
+.banner-slider .banner-buttons a.view-portfolio {
+	font-size: 12px;
+}
+.banner-slider .banner-buttons a span strong {
+	padding-bottom: 4px;
+}
+
+.main-content {
+	width: 98%;
+}
+.content {
+	width: 100%;
+}
+.service-categories li {
+	margin: 0 0 10px 0;
+	width: 100%;
+}
+.service-categories li a {
+	width: 92%;
+}
+
+.right-col {
+	width: 96%;
+	float: left;
+}
+
+#portfolio-slider .portfolio-discription h2 {
+	font-size: 14px;
+}
+#portfolio-slider .portfolio-discription {
+	display: none;
+}
+#portfolio-slider .portfolio-img {
+	width: 100%;
+}
+#portfolio-slider .slidesjs-pagination {
+	position: relative;
+	margin: 10px 0 0;
+	float: right;
+}
+
+.using-platforms-wrapper h4 {
+	float: none;
+	text-align: center;
+}
+
+.pre-footer-elements li {
+	width: 100%;
+	text-align: center;
+}
+
+.pre-footer-elements li.sitemap {
+	width: 100%;
+	margin-top: 15px;
+}
+
+footer p.copyright {
+	text-align: center;
+	width: 100%;
+}
+footer .social-media {
+	margin-right: 13%;
+}

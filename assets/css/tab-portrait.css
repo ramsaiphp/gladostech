@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	width: 98%;
+}
+
+nav ul li a {
+	font-size: 11px;
+}
+nav ul li a span span span {
+	padding: 17px 0;
+}
+
+.banner-slider h2 {
+	font-size: 30px;
+	top: 70px;	
+}
+
+.main-content {
+	padding: 25px 10px;
+	width: 97%;
+}
+
+.service-categories li a {
+	width: 210px;
+}
+
+.right-col form select {
+	width: 117%;
+}
+
+#portfolio-slider .portfolio-discription h2 {
+	font-size: 25px;
+}
+
+ul.platform-icons li {
+	margin: 0 13px;
+}
+.pre-footer-elements li.sitemap ul.first-child {
+	width: 17%;
+}
+.pre-footer-elements li.sitemap ul {
+	width: 41%;
+}
